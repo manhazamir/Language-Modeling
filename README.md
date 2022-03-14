@@ -1,4 +1,4 @@
-# Language Modeling
+# Poetry Generation using Language Modeling (n-grams)
 
 Language modeling is a statistical measure of finding and assigning probabilities to words and sentences. Given a history of previous word(s), it provides an estimate on what word might come next. A traditional method of implementing a language model is via n-grams, pertaining unigrams, bigrams, trigrams and so forth.
 ### Implementation:
